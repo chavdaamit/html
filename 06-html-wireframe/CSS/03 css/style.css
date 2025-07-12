@@ -1,0 +1,112 @@
+.p1{
+
+    border: 1px solid gray;
+font-size: 50px;
+background-color: black;
+color: white;
+border-radius: 1px;
+height: 2px;
+font-style: normal;
+font-weight: 600;
+padding: 3px;
+
+
+}
+
+.p2{
+
+font-family: 'Courier New', Courier, monospace;
+font-size: 50px;
+font-style: normal;
+background-color: burlywood;
+color: black              ;
+}
+
+.ri-arrow-right-box-fill{
+
+font-size: 100px;
+
+}
+
+.ri-home-4-fill{
+
+font-size:200px;
+
+}
+.para1{
+
+font-size:40px;
+font-family: "Alumni Sans SC", sans-serif;
+text-decoration: underline;
+text-transform: inherit;
+}
+
+.para2{  
+ font-family: "Edu VIC WA NT Hand Pre", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size:30px;
+}
+
+.title{
+
+
+  text-align: center;
+  font-size: 100px;
+     font-family: "Sixtyfour Convergence", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0,
+    "XELA" 0,
+    "YELA" 0;
+}
+
+.ri-arrow-right-down-box-fill{
+
+font-size: 300px;
+background-color: aqua;
+
+
+}
+
+.ri-reply-all-fill{
+font-size: 300px;
+background-color: aqua;
+}
+
+.ad1{
+
+  font-size: 30px;
+ font-family: cursive;
+text-align: center;
+text-decoration:underline;
+text-transform: capitalize;
+}
+
+
+.ad2{
+
+
+font-family: "Creepster", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+text-decoration: underline;
+
+  
+}
+.title2{
+
+font-family: "Creepster", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+text-decoration: underline;
+text-align: center;
+background-color: red;
+
+}

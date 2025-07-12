@@ -1,0 +1,72 @@
+*{
+
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+
+}
+
+
+.containar{
+height: 120vh;
+line-height: 100vh;
+background-size: cover;
+background-attachment: fixed;
+background-position: center;
+text-align: center;
+
+}
+.bg1{
+    font-size: 30px;
+    font-family: cursive;
+    color:black;
+
+background-image:url(https://easydrawings.net/wp-content/uploads/2021/11/How-to-draw-Maruti-Swift-step-10.png) ,linear-gradient(rgba(255, 255, 255, 0.712),  rgba(0, 0, 0, 0.452));
+
+background-blend-mode: overlay;
+
+background-size:cover;
+}
+.bg2{
+
+
+    font-size: 20px;
+    font-family:cursive;
+    color: black;
+    background-image:url(https://media.umbraco.io/suzuki-gb/13pdq1rn/image54.png), linear-gradient(rgba(255, 255, 255, 0.473),rgba(0, 0, 0, 0.363))  ;
+    background-blend-mode: overlay;
+}
+
+.bg3{background-image: url(https://www.financialexpress.com/wp-content/uploads/2024/11/Maruti-Suzuki-Dzire.jpg)
+
+
+}
+.bg4{
+    text-align: center;
+
+    font-family: cursive;
+    color: aliceblue;
+background-image: url(https://www.suzuki.co.th/upload/description/20210121_s_vcoOrSpgF8.jpeg),linear-gradient(rgba(3, 0, 0, 0.541));
+background-blend-mode: overlay;
+}
+.bg5{
+
+
+     
+background-image: url(https://www.topgear.com/sites/default/files/2023/12/Suzuki_Swift_06.jpg);
+}
+.bg6{
+
+    background-position: top;
+
+background-image: url(https://news24online.com/wp-content/uploads/2024/05/Marutri-Suzuki-Swift.jpg);
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ b
+}
+.bg7{
+
+    background-position: center;
+    background-image: url(https://img.etimg.com/thumb/width-1200,height-900,imgsize-124704,resizemode-75,msid-109745639/industry/auto/cars-uvs/maruti-suzuki-epic-new-swift-pre-booking-now-open-at-this-price-check-details.jpg);
+   
+}

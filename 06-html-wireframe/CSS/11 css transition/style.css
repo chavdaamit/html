@@ -1,0 +1,104 @@
+*{
+
+box-sizing: border-box;
+padding: 0px;
+margin: 0px;
+
+}
+.btn{
+
+    font-size: 20px;
+    width: 100px;
+    padding: 4px 8px;
+    background-color: rgba(132, 0, 255, 0.377);
+    color:blue;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 12px 7px 2px 1px rgba(0, 0, 255, 0.2);
+    transition: all 0.5s;
+}
+
+.icon{
+    display: inline-block;
+    width: 0px;
+    overflow: hidden;
+    transform: translateX(50px);
+
+
+}
+
+.btn:hover.icon{
+
+    transform: translateX(0px);
+
+}
+
+.btn:hover{
+
+    background-color: rgba(255, 0, 0, 0.829);
+    color: black;
+    box-shadow: 0px 7px 29px 0px;
+}
+
+.containar{
+
+max-width: 1320px;
+margin: auto;
+
+}
+.box{
+display: inline-block;
+width: 300px;
+margin: 10px;
+border-radius: 10px;
+overflow: hidden;
+padding: 2px;
+box-shadow: 5px 5px lightblue;
+transition: all 0.5s;
+
+
+}
+.box img{
+
+    padding: 10px;
+    width: 100%;
+   border-radius: 10px;
+    transition: all 0.5s;
+}
+
+
+.box img:hover{
+
+scale: 1.2;
+
+}
+.card-body{
+
+    padding: 10px 5px;
+}
+
+.box button{
+
+font-size: 15px;
+padding: 4px 8px;
+background-color: orange;
+border-radius: 10px;
+border: none;
+margin: 10px 0px;
+box-shadow: rgba(255, 0, 0, 0.582) 5px 3px 2px;
+
+}
+.box:hover{
+
+transform: translatey(-20px);
+box-shadow: rgba(255, 0, 0, 0.808) 3px 5px 2px;
+
+}
+.box p{
+
+width: fit-content;
+margin-left: auto;
+backdrop-filter: blur(10px);
+text-align: right;
+transform: translate(-10px, -50px);
+}

@@ -1,0 +1,50 @@
+*{
+box-sizing: border-box;
+padding: 0%;
+margin: 0%;
+}
+
+.containar{
+padding: 250px;
+height: 120vh;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+}
+
+
+.bg1{
+
+background-image: url(https://c8.alamy.com/comp/2JA0YEX/cinema-movie-poster-design-movie-time-banner-vector-retro-film-camera-background-2JA0YEX.jpg);
+
+}
+.bg2{
+
+
+background-image: url(https://assets-in.bmscdn.com/discovery-catalog/events/et00036895-ejuswdqulj-landscape.jpg);
+}
+.bg3{
+
+background-image: url(https://stat4.bollywoodhungama.in/wp-content/uploads/2016/05/438795193.jpg);
+}
+.bg4{
+
+background-image: url(https://stat4.bollywoodhungama.in/wp-content/uploads/2016/05/438795194.jpg);
+
+background-position: fixed;
+}
+.bg5{
+
+background-image: url(https://stat4.bollywoodhungama.in/wp-content/uploads/2016/05/438753597.jpg);
+
+}
+.bg6{
+
+background-image: url(https://static.newstrack.com/h-upload/2025/02/22/1847315-befunky2025-1-612-57-13.webp);
+
+}
+.bg7{
+
+  background-image: url(https://static.moviecrow.com/gallery/20160205/81656-sanam%20teri%20kasam.jpg);
+  background-position:top;
+}

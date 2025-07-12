@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../VAISHALI/PRACTICE"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PRACTICE"
+	}
+}

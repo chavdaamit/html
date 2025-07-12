@@ -1,0 +1,204 @@
+.p1{
+
+
+
+ border: 1px solid gray;
+font-size: 50px;
+background-color: pink;
+color: black;
+border-radius: 1px;
+height: 2px;
+font-style: normal;
+font-weight: 600;
+padding: 3px;
+
+
+}
+
+
+.ri-school-fill{
+border: 2px solid;
+font-size: 300px;
+border-radius: 3%;
+background-color: aliceblue;
+
+
+}
+
+.ri-apple-fill{
+
+
+font-size: 500px;        
+border-radius: 1px;
+background-color:palegreen;
+font-style: italic;
+border: 2px solid;
+color: peru;
+
+}
+
+
+.ri-twitter-fill{
+
+border: 5px double rgba(0, 0, 0, 0.973);
+font-size: 500px;
+background-color: rgba(1, 1, 3, 0.548);
+
+
+}
+
+.para1{
+
+font-size: 30px;
+font-family:cursive;
+text-decoration:underline;
+text-transform:capitalize;
+background-color: black;
+color: azure;
+}
+
+.para2{
+
+font-family:initial;
+font-size: 40px;
+text-decoration: line-through;
+background-color: blue;
+color:white ;
+text-transform: capitalize;
+
+
+}
+
+.ad1{
+
+font-size: 30px;
+ font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  color: aqua;
+  background-color: black;
+}
+
+.ri-plane-line{
+
+font-size: 300px;        
+border-radius: 1px;
+background-color:wheat;
+font-style: italic;
+border: 2px solid;
+color:black;
+
+}
+.ad2{
+
+
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+ul{
+
+
+list-style: "\FF04";  
+text-transform: capitalize;
+font-style: italic;
+font-size: 60px;
+text-decoration: line-through;
+color: aquamarine;
+background-color:black;
+}
+
+.bx1{
+
+width: 200px;
+height: 200px;
+padding: 40px;
+margin: 40px;
+background-color: black;
+color: white;
+border: 10px double black;
+border-radius: 40px;
+text-align: center;
+text-decoration: underline red   ;
+
+}
+.pcv1{
+
+width:600px ;
+height:auto;
+border-radius:  30% 70% 70% 30% / 30% 30% 70% 70% ;
+border:10px double black ;
+background-color: black;
+}
+
+.pcv2{
+width: 500px;
+border: 10px solid lightskyblue   ;
+border-radius:10% 20%  30% 40%  ;
+background-color: black;
+}
+.pcv3{
+
+width:1000px ;
+background-color: black;
+border-radius: 5% 15% 20% 5%;
+border: 15px double rgb(135, 96, 0);
+}
+.bx2{
+ font-size: 20px;
+font-family: initial;
+ text-transform: capitalize;
+width: 300px;
+height: 300px;
+background-color: aqua;
+border:10px  ridge;
+text-align: center;  
+text-decoration: overline;
+text-transform: lowercase;
+}
+.pcv4{
+
+border-radius: 10% 20% 30% 40%;
+border: 20px double rgba(5, 5, 1, 0.918);
+
+}
+.containar{
+
+
+height: 100vh;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+}
+.cd1{
+
+background-image: url(https://i.pinimg.com/736x/ff/ac/bc/ffacbce4da4ccb87e6aff7ab462a105d.jpg);
+background-size: contain;
+background-position: center;
+background-repeat: no-repeat;
+}
+.cd2{
+
+background-image: url(https://images-cdn.ubuy.co.in/67ecd0df2de71b5c4201e3cc-jack-daniels-old-no-7-tennessee.jpg);
+background-size: contain;
+background-position: center;
+background-repeat: no-repeat;
+
+}
+.cd3{
+
+background-image: url(https://www.fletcherdrinks.co.uk/cdn/shop/files/Jack_Daniel_s_Old_No.7_Tennessee_Whiskey_1Lt_T60.jpg?v=1726932312&width=1080);
+background-size: contain;
+background-repeat: no-repeat;
+}
+.cd4{
+
+  background-image: url(https://qualityliquorstore.com/cdn/shop/files/jack-daniels-jack-daniels-4-pack-combo__22362.jpg?v=1687291064&width=860);
+  background-size: contain;
+background-repeat: no-repeat;
+
+}

@@ -1,0 +1,60 @@
+.para1{
+	font-size:20px;
+	text-align:center;
+	text-decoration:underline;
+	font-family:poppins;
+	text-transform:capitalize;
+	letter-spacing:2;
+	font-weight:500;
+	background-color:lightyellow;
+}
+
+.para2{
+	text-decoration:underline;
+	font-size:20px;
+	color:gray;
+	font-family:arial;
+	text-transform:capitalize;
+	background-color:lightgreen;
+	text-align:center;
+}
+
+body{
+	
+	background-color:lightblue;
+}
+
+
+p{
+	background-color:red;
+	
+}
+
+text{
+	
+	background-color:pink
+	
+}
+#text{
+	text-transform:capitalize;
+	background-color:pink;
+}
+
+.btn{
+	
+	font-family:poppins;
+	padding:2px.8px;
+	letter-spacing:2px;
+}
+
+.btn-red{
+	
+	color:white;
+	background:red;
+	
+}
+.btn-green{
+	
+	color:white;
+	background:green; 
+}

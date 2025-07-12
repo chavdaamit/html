@@ -1,0 +1,48 @@
+*{
+
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+
+
+}
+
+.cantainar{
+
+width: fit-content;
+
+margin: auto;
+border: 11px ridge black;
+
+
+}
+.box{
+border-radius: 2%;
+width: 150px;
+height: 150px;
+float: left;
+font-size: 20px;
+
+text-align: center;
+line-height: 150px;
+
+}
+.box1{
+    font-size: 110px;
+background-color:rgba(4, 131, 25, 0.795) ;
+border: 1px solid black;
+}
+.box2{
+    font-size: 110px;
+    background-color: rgba(245, 238, 177, 0.801);
+    border: 1px solid ;
+}
+.c1{
+
+
+    clear: both;
+}
+
+.box-block{
+    clear: both;
+}

@@ -1,0 +1,77 @@
+*{
+
+box-sizing: border-box;
+padding: 0%;
+margin: 0%;
+
+}
+.containar{
+padding: 200px;
+height: 200vh;
+background-attachment: fixed;
+background-size: cover;
+
+
+}
+
+.bg1{
+
+background-image: url(https://i.ytimg.com/vi/HVChVRFS7M0/maxresdefault.jpg);
+background-position:60% ; 
+}
+.bg2{
+
+
+    background-image: url(https://i.pcmag.com/imagery/reviews/03POP0TjDjuXonJXI16Omn2-3.fit_lim.size_1050x.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+
+}
+.bg3{
+
+background-image: url(https://www.dpreview.com/files/p/articles/5473139871/B185A9E5-89CA-424D-ABCA-761D6B19531C.png);
+background-position: 60%;
+}
+.bg4{
+
+background-image: url(https://m-cdn.phonearena.com/images/hub/396-wide-two_1200/Apple-iPhone-15-Pro-Max-release-date-price-and-features.jpg);
+
+}
+.bg5{
+
+background-image: url(https://casesvilla.com/cdn/shop/files/iPhone15ProCover_2ec4ec30-8aea-4ff6-a7db-c825dbb63376.jpg?v=1702030465&width=1200);
+background-position: center;
+background-repeat: no-repeat;
+background-size: contain; 
+
+
+}   
+
+.bg6{
+
+background-image: url(https://cdn.mos.cms.futurecdn.net/7g4jAjsiBaFGo9ABi2qbNJ.jpg);
+background-repeat:no-repeat ;
+background-position: center;
+background-size: contain;
+
+
+}
+.bg7{
+
+background-image: url(https://www.zdnet.com/a/img/resize/7c135e7748ad80aa72743c58c1d067ba1a0fddcf/2023/10/06/4e7663f4-fe43-424e-8fde-64a5612cdfd7/img-1950.jpg?auto=webp&width=1280);
+background-repeat: no-repeat;
+background-position: center;
+background-size: contain;
+
+
+}
+.bg8{
+
+background-image: url(https://www.reuters.com/resizer/v2/YSXJOQLVH5LETJAV2OZHT4N2TA.jpg?auth=65a92e61f90fd91dcc897f3d3caf0f21e9cb9eda3d3cedb31799851ecd6283e7&width=5500&quality=80);
+background-size: contain;
+background-repeat: no-repeat;
+background-position: center;
+}

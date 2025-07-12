@@ -1,0 +1,59 @@
+.box{
+
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+}
+.box1{
+
+background-color:purple;
+transition: all 2s;
+
+}
+
+
+.box:hover{
+
+transform: rotate(350deg)
+
+}
+
+.box2{
+
+background-color: blue;
+transition: all 0.5s 1s;
+}
+
+.box:hover{
+
+    width: 500px;
+}
+
+
+
+.container{
+
+
+max-width: 1000px;
+margin: auto;
+border: 2px solid black;
+
+}
+
+
+.container.box{
+
+
+background-color: orange;
+
+}
+
+.time1{
+
+    transition: all 4s linear;
+}
+
+.time2{
+
+    transition: all 4s ease-in ;
+}

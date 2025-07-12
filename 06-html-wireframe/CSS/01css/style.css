@@ -1,0 +1,55 @@
+.para1{
+	font-size:40;
+	font-family:poppins;
+	font-style:italic;
+	text-transform:capitalize;
+	letter-spacing:1.5;
+	text-decoration:underline;
+}
+
+
+.para2{
+	
+	font-size:50px;
+	background-color:pink;
+	text-indent:30%;
+	font-weight:1000;
+	text-align:center;
+	text-decoration:underline dotted black;
+}
+.p1{
+	
+	font-size:50px;
+	font-family:poppins;
+	text-decoration:underline;
+	list-style:"\265A"
+	
+}
+
+.p2{
+	font-size:60px;
+	font-family:serif;
+	text-decoration:underline dotted red;
+	list-style:"\2663"
+	
+}
+body{
+	
+	background-color:lightyellow;
+	
+}
+
+.r1{
+	
+	font-size:50PX;
+	color:white;
+	background-color:red;
+}
+
+.r2{
+	
+	font-size:50px;
+	background-color:green;
+	color:white;
+	
+}
